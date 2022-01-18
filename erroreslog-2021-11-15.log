@@ -1,0 +1,2 @@
+ERROR - 2021-11-15 17:50:40 --> Severity: Warning --> include_once(../analyticstracking.php): failed to open stream: No such file or directory C:\wamp64\www\comision-de-equidad-y-genero\application\views\common\head.php 32
+ERROR - 2021-11-15 17:50:40 --> Severity: Warning --> include_once(): Failed opening '../analyticstracking.php' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\comision-de-equidad-y-genero\application\views\common\head.php 32
